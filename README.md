@@ -4,7 +4,7 @@
 ------------
 
 ### Beginner
-1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv "1. Single-Page CV")
+1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
 2. Basic HTML Website
 3. Personal Portfolio
 4. Changelog Component
