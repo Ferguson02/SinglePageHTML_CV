@@ -20,7 +20,7 @@
 
 ------------
 
-###Intermediate
+### Intermediate
 1. Custom Dropdown
 2. Task Tracker
 3. GitHub Random Repository
@@ -29,4 +29,4 @@
 
 ------------
 
-###Advanced
+### Advanced
